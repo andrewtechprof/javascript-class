@@ -4,7 +4,7 @@ Escopo refere-se à acessibilidade e visibilidade de variáveis, funções e obj
 
 ## Tipos de Escopo
 
-### **1. Escopo Global:** O escopo global em JavaScript refere-se à acessibilidade de variáveis fora de qualquer função, o que significa que essas variáveis podem ser acessadas de qualquer lugar no código.
+**1. Escopo Global:** O escopo global em JavaScript refere-se à acessibilidade de variáveis fora de qualquer função, o que significa que essas variáveis podem ser acessadas de qualquer lugar no código.
 
 ex.:
 ```javascript
@@ -19,7 +19,7 @@ minhaFuncao(); // Saída: Esta é uma variável global
 console.log(globalVar); // Também pode ser acessada aqui fora da função
 ```
 
-* **2. Escopo de Bloco:** O escopo de bloco é um conceito introduzido no ECMAScript 6 (também conhecido como ES6 ou ES2015) que define o escopo de uma variável para o bloco mais próximo, delimitado por chaves { }. Antes do ES6, o escopo de uma variável em JavaScript era determinado apenas por funções.
+**2. Escopo de Bloco:** O escopo de bloco é um conceito introduzido no ECMAScript 6 (também conhecido como ES6 ou ES2015) que define o escopo de uma variável para o bloco mais próximo, delimitado por chaves { }. Antes do ES6, o escopo de uma variável em JavaScript era determinado apenas por funções.
 
 ```javascript
 if (true) {
