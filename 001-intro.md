@@ -13,7 +13,7 @@ O JavaScript é uma linguagem de programação extremamente versátil e amplamen
 Para **executar** um código JavaScript, você precisa de um **ambiente** onde o JavaScript possa ser interpretado e executado. Isso geralmente é feito em um **navegador** da web, como Google Chrome, Mozilla Firefox ou Safari, ou em um ambiente de **execução** dedicado, como Node.js. Depois de ter um ambiente adequado configurado, você pode criar um arquivo com extensão .js contendo seu código JavaScript. Em seguida, você pode usar o navegador para abrir uma página da web que referencie esse arquivo ou executar o arquivo diretamente em um **terminal** usando o Node.js. O ambiente JavaScript interpretará seu código e executará as **instruções** conforme definido. Certifique-se de que seu código esteja livre de erros de sintaxe para evitar problemas durante a **execução**.
 
 ex.:
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
